@@ -6,7 +6,7 @@ Quality Assurance / Performance Test Engineer and Jr. Web Developer
 
 I've been testing applications for 16+ years. Two years ago, I went back to studies and took Web Development and Internet Applications. I'm
 
-* 🌍  I'm based in Ottawa
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [sleypars01@gmail.com](mailto:sleypars01@gmail.com)
 * 🤝  I'm open to collaborating on volunteer projects in the area
 * ⚡  Yes. I'm named after the herb.
